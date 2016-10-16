@@ -1,0 +1,6 @@
+{
+  "name": "Dockerizer.GitHub.io",
+  "tagline": "dockerizer github page",
+  "body": "### Welcome to my Dockerizer GitHub Page.\r\n\r\nHere I will be publishing interesting projects concerning docker, please check our repos at https://github.com/dockerizer/",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
